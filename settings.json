@@ -1,0 +1,11 @@
+{
+    "livePreview.defaultPreviewPath": "192.168.2.223",
+    "livePreview.customExternalBrowser": "Chrome",
+    "livePreview.hostIP": "192.168.2.223",
+    "livePreview.openPreviewTarget": "External Browser",
+    "livePreview.showServerStatusNotifications": true,
+    "livePreview.tasks.runTaskWithExternalPreview": true,
+    "livePreview.serverRoot": "192.168.2.223",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "inlineChat.mode": "preview"
+}
